@@ -1,0 +1,98 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+.navbar img {
+    width: 5.3rem;
+    height: 1.5rem;
+}
+
+.card {
+    max-width: 20rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 1.3rem;
+    color: #212529;
+}
+
+.card-body p {
+    font-weight: 300;
+    font-size: 1rem;
+    color: #707070;
+}
+
+.ubicacion p {
+    font-size: 0.8rem;
+}
+
+.precio {
+    font-weight: 300;
+    color: #707070;
+    font-size: 1rem;
+    display: inline-block;
+    width: 60%;
+    text-align: right;
+}
+
+.oferta {
+    font-weight: 500;
+    color: #28a745;
+    font-size: 1.3rem;
+    display: inline-block;
+    width: 38%;
+    text-align: left;
+    padding-left: 1rem;
+}
+
+.precios {
+    margin-top: -1rem;
+    display: inline-block;
+}
+
+hr {
+    width: 90%;
+}
+
+.navbar-toggler-icon {
+    margin-top: 0;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.form-control {
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+
+.btn {
+    font-weight: 500;
+    font-size: 0.8rem;
+    width: 6rem;
+}
+
+.margen {
+    margin-top: -0.8rem;
+}
+
+footer img {
+    width: 4.3rem;
+    height: 1.2rem;
+}
+
+footer p {
+    font-weight: 300;
+    color: #707070;
+    font-size: 0.8rem;
+    line-height: 1rem;
+}
